@@ -1,2 +1,2 @@
-# cria-ositesII
+# criacaositesII
 Repo de teste para aula
